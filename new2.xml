@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+     <PersonalInfo>
+       <LastName>Kharchenko</LastName>
+       <FirstName>Nadya</FirstName>
+       <Age>41</Age>
+       <Pets>2</Pets>
+       <Salary>3000</Salary>
+     </PersonalInfo>
+
