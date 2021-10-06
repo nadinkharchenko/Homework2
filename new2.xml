@@ -5,5 +5,10 @@
        <Age>41</Age>
        <Pets>2</Pets>
        <Salary>3000</Salary>
+       <Favorite movie>Prety woman</Favorite movie>
+       <Favorite show>Friends</Favorite show>
+       <Favorite food>Chinese food</Favorite food>
+       <Favotite season>Spring</Favotite season>
+       <Wish country>Japan</Wish country>  
      </PersonalInfo>
 
