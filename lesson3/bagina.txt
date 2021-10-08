@@ -1,0 +1,12 @@
+1.Bug id
+2.bug summary
+3.bug details
+4.description
+5.steps to reproduce
+6.actual result
+7.expected result
+8.bug severity
+9.bug priority
+10.attachments
+
+
