@@ -2,13 +2,13 @@
      <PersonalInfo>
        <LastName>Kharchenko</LastName>
        <FirstName>Nadya</FirstName>
-       <Age>41</Age>
-       <Pets>2</Pets>
-       <Salary>3000</Salary>
-       <Favorite movie>Prety woman</Favorite movie>
-       <Favorite show>Friends</Favorite show>
-       <Favorite food>Chinese food</Favorite food>
-       <Favotite season>Spring</Favotite season>
-       <Wish country>Japan</Wish country>  
+       <Age> 41 </Age>
+       <Pets> 2 </Pets>
+       <Salary> 3000 </Salary>
+       <FavoriteMovie> Prety woman </FavoriteMovie>
+       <FavoriteShow> Friends </FavoriteShow>
+       <FavoriteFood> Chinese food </FavoriteFood>
+       <FavoriteSeason> Spring </FavoriteSeason>
+       <WishCountry> Japan </WishCountry>  
      </PersonalInfo>
 
